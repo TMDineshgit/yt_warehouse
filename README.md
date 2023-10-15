@@ -18,14 +18,14 @@ Installed & imported Libraries:
 Prerequisites:
     Python 3.7 +
 
-pip install streamlit
-pip install google-api-python-client
-pip install pymongo
-pip install mysql-connector-python
-pip install sqlalchemy 
-pip install pymysql
-pip install pandas
-pip install numpy
+pip install streamlit,
+pip install google-api-python-client,
+pip install pymongo,
+pip install mysql-connector-python,
+pip install sqlalchemy,
+pip install pymysql,
+pip install pandas,
+pip install numpy,
 pip install plotly-express.
 
 
