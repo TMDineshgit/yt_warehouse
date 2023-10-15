@@ -16,7 +16,7 @@ Features:
 Installed & imported Libraries:
 ------------------------------
 Prerequisites:
-    Python 3.7 +
+    Python 3.7 + , mongoDB server, Mysql server, google youtube api key
 
 pip install streamlit,
 pip install google-api-python-client,
