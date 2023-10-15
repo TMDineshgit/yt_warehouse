@@ -13,20 +13,25 @@ Features:
 
 
 
-Installed & imported Libraries:
-------------------------------
-Prerequisites:
-    Python 3.7 + , mongoDB server, Mysql server, google youtube api key
+Prerequisites
+-------------
+    1. Python 3.7 + , 
+    2. mongoDB server, 
+    3. Mysql server, 
+    4. google youtube api key
 
-pip install streamlit,
-pip install google-api-python-client,
-pip install pymongo,
-pip install mysql-connector-python,
-pip install sqlalchemy,
-pip install pymysql,
-pip install pandas,
-pip install numpy,
-pip install plotly-express.
+installation
+-------------
+
+    1. pip install streamlit,
+    2. pip install google-api-python-client,
+    3. pip install pymongo,
+    4. pip install mysql-connector-python,
+    5. pip install sqlalchemy,
+    6. pip install pymysql,
+    7. pip install pandas,
+    8. pip install numpy,
+    9. pip install plotly-express.
 
 
 Get Started:
