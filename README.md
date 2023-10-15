@@ -37,4 +37,4 @@ installation
 Get Started:
 -----------
 
-streamlit run [filename.py]
+    1. streamlit run [filename.py]
